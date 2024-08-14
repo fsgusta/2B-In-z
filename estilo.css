@@ -1,1 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family-Comforter&display=swap');
 
+body{
+
+font-family: Comforter;
+
+background-color: cyan;
+
+font-size: 200%;
+
+text-align: center;
+
+text-shadow: 2px 2px 2px white;
+
+}
+
+div{
+
+background-image: url(frank.png);
+
+background-size: 55px;
+
+background-color: grey;
+
+width:300px;
+
+margin: auto;
+
+text-shadow: 2px 2px black;
+
+color: white;
+
+box-shadow: 5px 5px 5px black;
+
+}
+
+#item1{
+
+border: 5px groove blue;
+
+}
+
+#item2{
+
+border: 5px dotted blue;
+}
+
+img{ 
+  widht: 500px;
+}

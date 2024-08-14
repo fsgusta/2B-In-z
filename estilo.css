@@ -42,7 +42,7 @@ border: 5px groove red;
 
 #item2{
 
-border: 5px groove black;
+border-top: 5px groove black;
 }
 
 img{ 
